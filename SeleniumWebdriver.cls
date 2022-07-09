@@ -1,5 +1,5 @@
 Option Explicit
-
+'Thank you very much for the work you do. We welcome you to attach a sample file.
 Private ChromeDriver As Object
 Private EdgeDriver  As Object
 Private SeleniumFolder As String
